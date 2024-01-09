@@ -18,4 +18,5 @@ Other power lines connect to the GND of terminal block e.g. 2nd and 4th pin.
 ### 2 buses
 
 In addition to the 1-bus sample, another 1-wire signal is connected to the first pin of the terminal block.
+Change JP2 setting: Cut a pattern of between 3rd and 2nd pad. And solder the pattern of between 1st and 2nd pad. 
 
